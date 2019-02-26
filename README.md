@@ -35,4 +35,4 @@ Conections between display lcd and arduino nano:
 - Pinul 12 - D5 la pinul digital 4;
 - Pinul 13 - D6 la pinul digital 3;
 - Pinul 14 - D7 la pinul digital 2;
-- Pinul 15 la rezisten?a de 390 ? ?i pinul 16 la Ground.
+- Pinul 15 la rezistenta de 390 ohmi si pinul 16 la Ground.
